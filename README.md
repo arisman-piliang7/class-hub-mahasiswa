@@ -16,8 +16,8 @@ Kebutuhan: PHP 8.0+ dengan ekstensi PDO MySQL, MySQL 5.7+/MariaDB 10.3+.
 ## Akun
 | Peran | Username | Password awal |
 |---|---|---|
-| Mahasiswa | NIM (mis. 241110007) | `machinelearning2026` (password kolektif) |
-| Dosen/Admin | `dosen` | `Admin#ML2026` |
+| Mahasiswa | NIM (mis. 241110007) | `xxxxxxx` (password kolektif) |
+| Dosen/Admin | `dosen` | `xxxxxxx` |
 
 Semua akun **wajib ganti password** saat pertama masuk. Dosen bisa mereset password mahasiswa
 ke password kolektif lewat menu *Data Mahasiswa → Reset*. Password kolektif diatur di `config.php`
